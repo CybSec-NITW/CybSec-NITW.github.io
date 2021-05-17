@@ -38,13 +38,13 @@ Available throughout the year
 
 ### 2. Deloitte -Risk Advisory Intern
 
--Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics
+Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics </br>
 
--Location: Delhi
+Location: Delhi </br>
 
--Designation: Intern
+Designation: Intern </br>
 
--Entity: DTTILLP
+Entity: DTTILLP</br>
 
 <a href="https://jobsindia.deloitte.com/job/Delhi-Risk-Advisory-Intern-A&IC-IT&SA-Analytics/3918744/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Apply here </a>
 
