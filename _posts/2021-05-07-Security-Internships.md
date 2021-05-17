@@ -20,7 +20,7 @@ paginate: true
 
 The internship season is here . CybSec brings to you Top 9 available internships from around the globe so that you can make the most out of the summer .
 
-> “I learned more in the last 10 weeks that I did in the last 2 years at college” — Grant B.
+> “I learned more in the 10 weeks of internship than I did in the last 2 years at college” — Grant B.
 
 <!--page-->
 
