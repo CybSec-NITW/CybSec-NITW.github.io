@@ -36,37 +36,43 @@ Link: Email at <a href="#">helpdesk2@nciipc.gov.in</a>
 
 Available throughout the year
 
+<!--page-->
+
 ### 2. Deloitte -Risk Advisory Intern
 
-- Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics
+Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics
 
-- Location: Delhi
+Location: Delhi
 
-- Designation: Intern
+Designation: Intern
 
-- Entity: DTTILLP
+Entity: DTTILLP
 
 <a href="https://jobsindia.deloitte.com/job/Delhi-Risk-Advisory-Intern-A&IC-IT&SA-Analytics/3918744/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Apply here </a>
 
+<!--page-->
+
 ### 3. Gurugram Police Online Cyber Security Summer Internship 2021
 
-- Location: Gurugram
+Location: Gurugram
 
-- Duration : 30-35 days
+Duration : 30-35 days
 
-- Perks : Certificate of Internship
+Perks : Certificate of Internship
 
-- Criteria : UG/PG/Working Professionals ( Any Stream)
+Criteria : UG/PG/Working Professionals ( Any Stream)
 
-- Internship mode : Online
+Internship mode : Online
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSetyra86KJJTikukqi7whzk7IkuggxyKc67f-ohMyYiwe54Cg/viewform"> Apply here </a>
 
+<!--page-->
+
 ### 4. Cyber security intern - Virsec Systems India Private Limited
 
-- Location : Bengaluru, Karnataka, India
+Location : Bengaluru, Karnataka, India
 
-- Work : on zero-day and N-day exploits
+Work : on zero-day and N-day exploits
 
 <a href="https://www.google.com/search?q=cyber+security+internship+india&safe=strict&rlz=1C1CHZL_enSA808SA808&ei=-jCYYIS4AoCd1fAP84iEyAY&oq=cyber+securinternship+india&gs_lcp=Cgdnd3Mtd2l6EAEYADIGCAAQBxAeMgQIABANMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEA0QHjoHCAAQRxCwA1DjdViugwFg9pABaAJwAngAgAGaAogBzxaSAQQyLTEymAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwiVqd6dpL3wAhV5TBUIHdQoC8EQkd0GMAF6BAgIEAE#fpstate=tldetail&htivrt=jobs&htiq=cyber+security+internship+india&htidocid=wnJ1CHv9ts1P2DRtAAAAAA%3D%3D">Apply here </a>
 
@@ -80,37 +86,45 @@ Available throughout the year
 
 <a href="https://www.linkedin.com/jobs/view/2440604167/"> Apply here </a>
 
+<!--page-->
+
 ### 6. Johnson & Johnson - Cybersecurity Intern (Summer 2021)
 
-- Work : Cybersecurity Co-Op Analyst R&D.
+Work : Cybersecurity Co-Op Analyst R&D.
 
-- Type : remote
+Type : remote
 
 ![placeholder](https://1000logos.net/wp-content/uploads/2020/04/Johnson-and-Johnson-logo.jpg "J&J logo")
 
 <a href="https://www.linkedin.com/jobs/view/2494249759/">Apply here</a>
 
+<!--page-->
+
 ### 7. International Air Transport Association (IATA)
 
-- Location : Montreal, QC , USA
+Location : Montreal, QC , USA
 
-- Employment Type: Aviation Cyber Security Intern
+Employment Type: Aviation Cyber Security Intern
 
-- Contract Duration: 6 months
+Contract Duration: 6 months
 
 ![placeholder](https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2020/05/29/2124266-522716933.png?itok=kvwlS3Rh "IATA logo")
 
 <a href="https://www.linkedin.com/jobs/view/2523781068/"> Apply here </a>
 
+<!--page-->
+
 ### 8. Bupa Arabia - IT, Computer science & Cyber security Internship
 
-- Location : Jeddah , Saudi Arabia
+Location : Jeddah , Saudi Arabia
 
-- Criteria : Student in Bachelor’s or Master’s degree in Information technology,
-  cyber security, computer science pr computer engineering
+Criteria : Student in Bachelor’s or Master’s degree in Information technology,
+cyber security, computer science pr computer engineering
 
 ![placeholder](https://bupa.com.sa/images/default-source/default-album/bupa-logo.png?sfvrsn=72fd29b5_2 "bupa logo")
 <a href="https://www.linkedin.com/jobs/view/2507702822/"> Apply here</a>
+
+<!--page-->
 
 ### 9. Atos - Cyber Security Intern
 
