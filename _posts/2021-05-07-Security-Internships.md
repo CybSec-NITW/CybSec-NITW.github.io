@@ -38,19 +38,26 @@ Available throughout the year
 
 ### 2. Deloitte -Risk Advisory Intern
 
-Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics
-Location: Delhi
-Designation: Intern
-Entity: DTTILLP
+-Job Title: Risk Advisory - Intern - A&IC - IT&SA - Analytics
+
+-Location: Delhi
+
+-Designation: Intern
+
+-Entity: DTTILLP
 
 <a href="https://jobsindia.deloitte.com/job/Delhi-Risk-Advisory-Intern-A&IC-IT&SA-Analytics/3918744/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Apply here </a>
 
 ### 3. Gurugram Police Online Cyber Security Summer Internship 2021
 
 Location: Gurugram
+
 Duration : 30-35 days
+
 Perks : Certificate of Internship
+
 Criteria : UG/PG/Working Professionals ( Any Stream)
+
 Internship mode : Online
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSetyra86KJJTikukqi7whzk7IkuggxyKc67f-ohMyYiwe54Cg/viewform"> Apply here </a>
@@ -58,6 +65,7 @@ Internship mode : Online
 ### 4. Cyber security intern - Virsec Systems India Private Limited
 
 Location : Bengaluru, Karnataka, India
+
 Work : on zero-day and N-day exploits
 
 <a href="https://www.google.com/search?q=cyber+security+internship+india&safe=strict&rlz=1C1CHZL_enSA808SA808&ei=-jCYYIS4AoCd1fAP84iEyAY&oq=cyber+securinternship+india&gs_lcp=Cgdnd3Mtd2l6EAEYADIGCAAQBxAeMgQIABANMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEA0QHjoHCAAQRxCwA1DjdViugwFg9pABaAJwAngAgAGaAogBzxaSAQQyLTEymAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwiVqd6dpL3wAhV5TBUIHdQoC8EQkd0GMAF6BAgIEAE#fpstate=tldetail&htivrt=jobs&htiq=cyber+security+internship+india&htidocid=wnJ1CHv9ts1P2DRtAAAAAA%3D%3D">Apply here </a>
@@ -75,6 +83,7 @@ Work : on zero-day and N-day exploits
 ### 6. Johnson & Johnson - Cybersecurity Intern (Summer 2021)
 
 Work : Cybersecurity Co-Op Analyst R&D.
+
 Type : remote
 
 ![placeholder](https://1000logos.net/wp-content/uploads/2020/04/Johnson-and-Johnson-logo.jpg "J&J logo")
@@ -84,7 +93,9 @@ Type : remote
 ### 7. International Air Transport Association (IATA)
 
 Location : Montreal, QC , USA
+
 Employment Type: Aviation Cyber Security Intern
+
 Contract Duration: 6 months
 
 ![placeholder](https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2020/05/29/2124266-522716933.png?itok=kvwlS3Rh "IATA logo")
@@ -94,6 +105,7 @@ Contract Duration: 6 months
 ### 8. Bupa Arabia - IT, Computer science & Cyber security Internship
 
 Location : Jeddah , Saudi Arabia
+
 Criteria : Student in Bachelor’s or Master’s degree in Information technology,
 cyber security, computer science pr computer engineering
 
