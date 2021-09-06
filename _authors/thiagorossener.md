@@ -1,15 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/logo.png
-name: CybSec
-display_name: CybSec
-position: IG Team
-bio: Cybersecurity enthusiasts
-github_username: CybSecNITW
-facebook_username: CybSec-NITW
-twitter_username: twitter_username
-instagram_username: nitw_cybsec
-linkedin_username: cybsec-nitw
-medium_username: medium_username
+photo: /assets/img/uploads/profile.png
+name: thiagorossener
+display_name: Thiago Rossener
+position: Chief Editor
+bio: Just a developer.
+github_username: thiagorossener
+facebook_username: thiagorossener
+twitter_username: thiagorossener
+instagram_username: thiagorossener
+linkedin_username: thiagorossener
+medium_username: thiagorossener
 ---
 
