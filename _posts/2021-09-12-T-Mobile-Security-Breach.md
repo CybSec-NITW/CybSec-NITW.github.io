@@ -11,7 +11,7 @@ category: breach
 tags:
   - breach
   - security
-author: Aditya Manikanta
+author: adityamanikanta
 ---
 Over the last week, **T-Mobile confirmed that a massive information breach** had exposed the private info of about<a href="#"> 50 million individuals</a>,. The breach included names, addresses, and Social Security numbers. The information belongs mostly to individuals who applied for accounts with T-Mobile and provided the data for a credit check. That means that even people who aren't customers are likely affected if they ever tried to open an account .
 
