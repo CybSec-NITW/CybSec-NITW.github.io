@@ -4,8 +4,9 @@ layout: post
 title: Massive Data Breach in T-Mobile
 subtitle: Find out about how it happened ? When it happened ? And how this could have been avoided ?
 description: Find out about how it happened ? When it happened ? And how this could have been avoided ?
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: https://images.wsj.net/im-308657?width=1280&size=1.33333333
+optimized_image: https://images.wsj.net/im-308657?width=1280&size=1.33333333
+
 category: breach
 tags:
   - breach
