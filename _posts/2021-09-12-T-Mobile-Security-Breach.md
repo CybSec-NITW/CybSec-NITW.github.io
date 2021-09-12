@@ -41,8 +41,9 @@ Fortunately, there are few steps we can do:
 
 The good news is that these steps are not that arduous. It's just that doing so is very important to T-Mobile's customers.
 
-
-
+### References : 
+* https://www.inc.com/jason-aten/t-mobile-data-breach-50-million-accounts-how-to-protect-yourself.html
+* https://worldnewsera.com/news/entrepreneurs/t-mobile-suffered-a-massive-data-breach-its-response-is-the-1-thing-no-company-should-ever-do/
 
 
 
