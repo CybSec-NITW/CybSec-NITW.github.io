@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: adityamanikanta
-display_name: Aditya Manikanta
+display_name: Manikanta Aditya
 position: Editor
 bio: Just a hacker & a blogger.
 github_username: thiagorossener
