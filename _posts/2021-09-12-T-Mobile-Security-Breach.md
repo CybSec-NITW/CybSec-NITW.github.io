@@ -1,8 +1,8 @@
 ---
 date: 2021-09-12 12:26:40
 layout: post
-title: T-Mobile Security Breach
-subtitle: T-Mobile data breach exposes customer's critical data 
+title: Massive Data Breach in T-Mobile
+subtitle: Find out about how it happened ? When it happened ? And how this could have been avoided ?
 description: Find out about how it happened ? When it happened ? And how this could have been avoided ?
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
@@ -12,119 +12,33 @@ tags:
   - security
 author: thiagorossener
 ---
+Over the last week, **T-Mobile confirmed that a massive information breach** had exposed the private info of about<a href="#"> 50 million individuals</a>,. The breach included names, addresses, and Social Security numbers. The information belongs mostly to individuals who applied for accounts with T-Mobile and provided the data for a credit check. That means that even people who aren't customers are likely affected if they ever tried to open an account .
 
-hello hi good bye  <a href="#"> this workss </a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## Response from T-Mobile
+The response from T-Mobile has been unsatisfactory. For instance, I am a client who has nonetheless received a corporate communication regarding the breach. However, T-Mobile is talking to news outlets and clarifying that "no financial information or credit or debit card information" was compromised. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Impact of the breach 
+Even worse, this method of SIM-swapping enables hackers to steal an enormous sum of money. It's as if someone is in a position to convince a phone carrier that they're the other person.
+T-Mobile is not doing all it can to inform customers about the massive data breach that affected almost fifty million individuals. In response, the company did publish a blog post with information for affected customers but has not--as far as we can find--reached out to customers directly aside from a text message that said:
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+> "In addition, T-Mobile has discovered that unauthorized access to some of your data, such as your name, address, telephone number, and account passwords, occurred. None of this data contained sensitive information such as credit or debit card data. We take the protection of our customers seriously. Learn more about practices that keep your account secure and general recommendations for protecting yourself: t-mo.co/Protect. "
 
-## Inline HTML elements
+## Our views on it 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+The message seems like a gross statement of how the company handled the situation. It's most likely a best practice to assume that your SSN was compromised since it probably happened anyway. Also, not all T-Mobile customers received a text notification, leading them to wonder whether they have been affected or not.
+In response to the data breach, T-Mobile tried to make the situation worse than the hacker who took the data. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+As for the companies we give our information to, we expect them to protect that data. That's not unreasonable. Also not unreasonable is an expectation that if someone steals our information, those companies should be upfront and transparent about what happened, what they are doing about it. If they can't protect the data, they should let us know what we need to do to protect ourselves. 
 
-Most of these elements are styled by browsers with few modifications on our part.
+## What can you do to protect yourself ?
 
-# Heading 1
+Fortunately, there are few steps we can do:
 
-## Heading 2
+1. Protect your account from unauthorized access by changing your password to something secure. If user names and passwords weren't stolen, T-Mobile allows users to access their accounts with their phone numbers.
+2. To prevent unauthorized individuals from opening credit in your name, place a freeze on your reports. The three major credit bureaus allow this method to be used.
+3. With T-Mobile's new account protection service, you can add your account for free. This will prevent unauthorized individuals from transferring your number to another carrier.
 
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
+The good news is that these steps are not that arduous. It's just that doing so is very important to T-Mobile's customers.
 
 
 
