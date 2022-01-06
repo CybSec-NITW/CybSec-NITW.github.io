@@ -3,258 +3,84 @@
   <channel>
     <title>Jekflix | A blog theme for Jekyll</title>
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2021 15:30:43 +0530</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2021 15:30:43 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Jan 2022 17:50:14 +0300</pubDate>
+    <lastBuildDate>Thu, 06 Jan 2022 17:50:14 +0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 17 May 2019 05:18:05 +0530</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/</guid>
+        <title>Solution of OSINT challenge</title>
+        <description>&lt;h1 id=&quot;the-challenge-&quot;&gt;The Challenge&lt;/h1&gt; &lt;p&gt;Founder of “@picksar.co” had received death threat messages and has now gone missing. The police need your help to crack the case and trace the blackmailer. He was active on Instagram it seems .&lt;/p&gt; &lt;h2 id=&quot;q1-what-is-his-name-&quot;&gt;Q1. What is his name ?&lt;/h2&gt; &lt;p&gt;&lt;em&gt;Ans. beterbarker&lt;/em&gt;&lt;/p&gt; &lt;p&gt;In the &lt;strong&gt;following&lt;/strong&gt; list of &lt;a href=&quot;https://www.instagram.com/picksar.co/&quot;&gt;Picksar.co&lt;/a&gt; , &lt;a href=&quot;https://www.instagram.com/beterbarker2022/&quot;&gt;Beter Barker&lt;/a&gt;’s account is visible.&lt;/p&gt; &lt;h2 id=&quot;q2-where-did-he-graduate-from&quot;&gt;Q2. Where did he graduate from?&lt;/h2&gt; &lt;p&gt;Ans : nitw&lt;/p&gt; &lt;h2 id=&quot;q3-what-is-his-emailid&quot;&gt;Q3. What is his email-id?&lt;/h2&gt; &lt;p&gt;&lt;em&gt;Ans : bbb.me@gmail.com&lt;/em&gt;&lt;/p&gt; &lt;p&gt;We got *b.me@gmail.com from the comment section of the &lt;a href=&quot;https://www.instagram.com/p/CYUx-y-t27X/?utm_source=ig_web_copy_link&quot;&gt;4th post&lt;/a&gt; of beterbarker2022.&lt;/p&gt; &lt;p&gt;The first and third star alphabets make...</description>
+        <pubDate>Wed, 05 Jan 2022 02:48:05 +0300</pubDate>
+        <link>/solution-to-osint/</link>
+        <guid isPermaLink="true">/solution-to-osint/</guid>
         
-        <category>welcome</category>
+        <category>writeup</category>
         
-        <category>blog</category>
+        <category>osint</category>
         
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt; &lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur....</description>
-        <pubDate>Fri, 17 May 2019 05:18:05 +0530</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/2/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/2/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
+        <category>solution</category>
         
         <category>blog</category>
       </item>
     
       <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 17 May 2019 05:18:05 +0530</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</guid>
+        <title>Massive Data Breach in T-Mobile</title>
+        <description>&lt;p&gt;Over the last week, &lt;strong&gt;T-Mobile confirmed that a massive information breach&lt;/strong&gt; had exposed the private info of about&lt;a href=&quot;#&quot;&gt; 50 million individuals&lt;/a&gt;,. The breach included names, addresses, and Social Security numbers. The information belongs mostly to individuals who applied for accounts with T-Mobile and provided the data for a credit check. That means that even people who aren’t customers are likely affected if they ever tried to open an account .&lt;/p&gt; &lt;h2 id=&quot;response-from-t-mobile&quot;&gt;Response from T-Mobile&lt;/h2&gt; &lt;p&gt;The response from T-Mobile has been unsatisfactory. For instance, I am a client who has nonetheless received a corporate communication regarding the breach. However, T-Mobile...</description>
+        <pubDate>Sun, 12 Sep 2021 15:26:40 +0300</pubDate>
+        <link>/T-Mobile-Security-Breach/</link>
+        <guid isPermaLink="true">/T-Mobile-Security-Breach/</guid>
         
-        <category>welcome</category>
+        <category>breach</category>
         
-        <category>blog</category>
+        <category>security</category>
         
-        <category>blog</category>
+        <category>breach</category>
       </item>
     
       <item>
-        <title>Why books should be your priority?</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list...</description>
-        <pubDate>Thu, 22 Nov 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/why-books-should-be-your-priority/</link>
-        <guid isPermaLink="true">http://localhost:4000/why-books-should-be-your-priority/</guid>
+        <title>SAMSUNG'S PRE-INSTALLED APPS , Are they spying?</title>
+        <description>&lt;p&gt;Recently, the famous multinational South Korean conglomerate &lt;strong&gt;SAMSUNG&lt;/strong&gt;, came into the limelight when one many flaws were detected in some of its pre-installed apps.&lt;/p&gt; &lt;p&gt;Renowned cybersecurity specialist Sergey Toshin, founder of mobile security company Oversecured, found around a dozen possible vulnerabilities in some of its(Samsung) signature mobile phones, most notably &lt;strong&gt;Samsung Galaxy Note 20&lt;/strong&gt;.&lt;/p&gt; &lt;h1 id=&quot;bug-bounty-program-for-the-win-&quot;&gt;Bug Bounty Program for the win !&lt;/h1&gt; &lt;p&gt;These security flaws had been possible to detect because of the company’s BUG BOUNTY Program.&lt;/p&gt; &lt;p&gt;Bug Bounty Program are platforms where multinational corporations and companies provide an opportunity for Hackers , Developers and Tech Enthusiasts to find bugs,...</description>
+        <pubDate>Sun, 12 Sep 2021 15:00:00 +0300</pubDate>
+        <link>/is-samsung-spying/</link>
+        <guid isPermaLink="true">/is-samsung-spying/</guid>
         
-        <category>books</category>
+        <category>spy</category>
         
-        <category>read</category>
+        <category>samsung</category>
         
-        <category>life</category>
+        <category>samsung</category>
       </item>
     
       <item>
-        <title>The quick brown fox jumps over a lazy dog</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Tue, 09 Oct 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
-        <guid isPermaLink="true">http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
+        <title>Facebook Breach Decoded</title>
+        <description>&lt;p&gt;Recently, the multinational social media company - &lt;strong&gt;Facebook&lt;/strong&gt; came on Headlines when &lt;strong&gt;533 MILLION active user’s data&lt;/strong&gt; was leaked and uploaded on the internet after a security breach! So, what went wrong?! &lt;em&gt;Lets find out!&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;what-is-a-data-breach&quot;&gt;WHAT IS A DATA BREACH?&lt;/h2&gt; &lt;p&gt;An action of share/release of private/confidential information of a particular source without his/her knowledge publicly to an untrusted environment is called Data Breach.&lt;/p&gt; &lt;h2 id=&quot;views-on-the-topic&quot;&gt;VIEWS ON THE TOPIC&lt;/h2&gt; &lt;p&gt;The social media company said it found and fixed the issue in August 2019 and its confident the same route can no longer be used to scrape that data.&lt;/p&gt; &lt;p&gt;In July...</description>
+        <pubDate>Sun, 12 Sep 2021 15:00:00 +0300</pubDate>
+        <link>/facebook-breach/</link>
+        <guid isPermaLink="true">/facebook-breach/</guid>
         
-        <category>css</category>
+        <category>facebook</category>
         
-        <category>tips</category>
+        <category>breach</category>
         
-        <category>css</category>
+        <category>security</category>
+        
+        <category>facebook</category>
       </item>
     
       <item>
-        <title>A wonderful serenity has taken possession of my entire soul</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 20 Jul 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</link>
-        <guid isPermaLink="true">http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</guid>
+        <title>Security Interships</title>
+        <description>&lt;p&gt;The internship season is here . CybSec brings to you Top 9 available internships from around the globe so that you can make the most out of the summer .&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;“I learned more in the 10 weeks of internship than I did in the last 2 years at college” — Grant B.&lt;/p&gt; &lt;/blockquote&gt; &lt;!--page--&gt; &lt;h1 id=&quot;indian-internships&quot;&gt;Indian Internships&lt;/h1&gt; &lt;h3 id=&quot;1-nciipc&quot;&gt;1. NCIIPC&lt;/h3&gt; &lt;p&gt;Areas: IT security, VAPT, OT using ICS/SCADA, Network security, Malware Analysis, Data Analysis, Mobile App Security, Cloud Security and AI in ICT security&lt;/p&gt; &lt;p&gt;Duration: Minimum 4 weeks, can be extended upto 6 months depending on area of work&lt;/p&gt; &lt;p&gt;Link:...</description>
+        <pubDate>Mon, 17 May 2021 15:26:40 +0300</pubDate>
+        <link>/Security-Internships/</link>
+        <guid isPermaLink="true">/Security-Internships/</guid>
         
-        <category>platform</category>
+        <category>intern</category>
         
-        <category>javascript</category>
+        <category>cybersecurity</category>
         
-        <category>vscode</category>
-        
-        <category>code</category>
-      </item>
-    
-      <item>
-        <title>Candy, candies, candy!</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sat, 21 Apr 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/candy-candies-candy/</link>
-        <guid isPermaLink="true">http://localhost:4000/candy-candies-candy/</guid>
-        
-        <category>food</category>
-        
-        <category>tips</category>
-        
-        <category>diet</category>
-      </item>
-    
-      <item>
-        <title>Trust me, it will work</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Mon, 12 Mar 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/trust-me-it-will-work/</link>
-        <guid isPermaLink="true">http://localhost:4000/trust-me-it-will-work/</guid>
-        
-        <category>languages</category>
-        
-        <category>tips</category>
-        
-        <category>tips</category>
-      </item>
-    
-      <item>
-        <title>How to turn your dog into a Jedi master</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sat, 03 Feb 2018 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/how-to-turn-your-dog-into-a-jedi-master/</link>
-        <guid isPermaLink="true">http://localhost:4000/how-to-turn-your-dog-into-a-jedi-master/</guid>
-        
-        <category>jedi</category>
-        
-        <category>doggo</category>
-        
-        <category>starwars</category>
-        
-        <category>tutorial</category>
-      </item>
-    
-      <item>
-        <title>Let flexbox work for you or perish</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Tue, 15 Aug 2017 04:25:45 +0530</pubDate>
-        <link>http://localhost:4000/let-flexbox-work-for-you-or-perish/</link>
-        <guid isPermaLink="true">http://localhost:4000/let-flexbox-work-for-you-or-perish/</guid>
-        
-        <category>css</category>
-        
-        <category>frontend</category>
-        
-        <category>css</category>
-      </item>
-    
-      <item>
-        <title>A star has fallen from the sky and the cat ate it</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Tue, 08 Aug 2017 04:34:08 +0530</pubDate>
-        <link>http://localhost:4000/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</guid>
-        
-        <category>crazy</category>
-        
-        <category>story</category>
-        
-        <category>music</category>
-      </item>
-    
-      <item>
-        <title>Smoke alert</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sat, 29 Jul 2017 18:54:49 +0530</pubDate>
-        <link>http://localhost:4000/smoke-alert/</link>
-        <guid isPermaLink="true">http://localhost:4000/smoke-alert/</guid>
-        
-        <category>jekyll</category>
-        
-        <category>wordpress</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Do you believe that a spider can dance?</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Thu, 08 Jun 2017 17:30:00 +0530</pubDate>
-        <link>http://localhost:4000/do-you-believe-that-a-spider-can-dance/</link>
-        <guid isPermaLink="true">http://localhost:4000/do-you-believe-that-a-spider-can-dance/</guid>
-        
-        <category>fate</category>
-        
-        <category>travel</category>
-        
-        <category>travel</category>
-      </item>
-    
-      <item>
-        <title>A cook cries in the rain at night</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sun, 04 Jun 2017 17:30:00 +0530</pubDate>
-        <link>http://localhost:4000/a-cook-cries-in-the-rain-at-night/</link>
-        <guid isPermaLink="true">http://localhost:4000/a-cook-cries-in-the-rain-at-night/</guid>
-        
-        <category>cook</category>
-        
-        <category>cucine</category>
-        
-        <category>story</category>
-        
-        <category>diet</category>
-      </item>
-    
-      <item>
-        <title>Grab your band and get out</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Thu, 11 May 2017 17:30:00 +0530</pubDate>
-        <link>http://localhost:4000/grab-your-band-and-get-out/</link>
-        <guid isPermaLink="true">http://localhost:4000/grab-your-band-and-get-out/</guid>
-        
-        <category>music</category>
-        
-        <category>band</category>
-        
-        <category>passion</category>
-        
-        <category>music</category>
-      </item>
-    
-      <item>
-        <title>Passion is dangerous, go for it!</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sun, 06 Sep 2015 17:30:00 +0530</pubDate>
-        <link>http://localhost:4000/passion-is-dangerous-go-for-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/passion-is-dangerous-go-for-it/</guid>
-        
-        <category>work</category>
-        
-        <category>career</category>
-        
-        <category>work</category>
-      </item>
-    
-      <item>
-        <title>Birds can fly, but this you knew already</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 10 Sep 2010 17:56:40 +0530</pubDate>
-        <link>http://localhost:4000/birds-can-fly-but-this-you-knew-already/</link>
-        <guid isPermaLink="true">http://localhost:4000/birds-can-fly-but-this-you-knew-already/</guid>
-        
-        <category>life</category>
-        
-        <category>tips</category>
-        
-        <category>life</category>
+        <category>intern</category>
       </item>
     
   </channel>
