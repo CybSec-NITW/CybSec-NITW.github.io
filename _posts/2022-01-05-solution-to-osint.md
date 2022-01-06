@@ -1,5 +1,5 @@
 ---
-date: 2022-01-4T23:48:05.000Z
+date: 2022-01-5T23:48:05.000Z
 layout: post
 title: Solution of OSINT challenge
 subtitle: 'CYBERVERSE : Hack Into Your Curiosity  '
